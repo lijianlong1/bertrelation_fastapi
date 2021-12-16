@@ -1,0 +1,10 @@
+pymysql==1.0.2
+transformers==4.9.2
+torch==1.10.0
+numpy
+fastapi==0.70.0
+pydantic==1.8.2
+uvicorn==0.15.0
+# 基本的所需安装环境都在这一块，报错的话再进行安装
+
+# from transformers import BertPreTrainedModel
